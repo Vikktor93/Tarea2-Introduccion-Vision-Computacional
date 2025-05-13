@@ -1,0 +1,7 @@
+Métrica,Valor
+Accuracy,0.8947368421052632
+Precision (macro),0.9130434782608696
+Recall (macro),0.8947368421052632
+F1-score (macro),0.8935574229691876
+Tiempo promedio (s),0.5105000000000001
+Desviación estándar (s),0.07955303262604137
