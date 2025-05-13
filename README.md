@@ -12,7 +12,7 @@ Este repositorio contiene el desarrollo de la **Tarea 2** de la asignatura *Visi
 ### 🧪 **Descripción del trabajo**
 
 - **Dataset:** PlantVillage (2 clases: `Tomato_healthy`, `Tomato_Early_blight`)
-- **Imágenes utilizadas:** 200 imágenes preprocesadas en la Tarea 1 (100 por clase)
+- **Imágenes utilizadas:** 200 imágenes preprocesadas en la [Tarea 1](https://github.com/Vikktor93/Tarea1-Introduccion-Vision-Computacional) (100 por clase)
 - **Modelo:** CNN con capas convolucionales, de max pooling, regularización mediante dropout y denses layers.
 - **Preprocesamiento adicional:**
   - Normalización de pixeles
